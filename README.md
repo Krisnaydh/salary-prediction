@@ -4,6 +4,8 @@ Proyek Machine Learning ini bertujuan untuk memprediksi **gaji (salary)** seoran
 
 Proyek ini dibangun sebagai eksperimen untuk menangani fitur kategori berkardinalitas tinggi, menentukan teknik *encoding* yang tepat (ordinal vs nominal), serta membandingkan dan mengevaluasi model regresi.
 
+# Dataset
+[Kaggle - Salary Prediction Dataset](https://www.kaggle.com/datasets/rkiattisak/salaly-prediction-for-beginer)
 ---
 
 ## 🛠️ Alur Kerja Proyek
